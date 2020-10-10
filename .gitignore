@@ -1,0 +1,4 @@
+# temporary and complied files
+__pycache__/
+venv/
+temp.py
